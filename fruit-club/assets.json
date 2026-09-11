@@ -1,0 +1,89 @@
+{
+  "batch_id": "TPC-FRUIT-001",
+  "assets": [
+    {
+      "id": "APPLE",
+      "file": "motifs/apple.png",
+      "sha256": "75638ae1782fd29691c8adbbad70c9edddc3e6214310a82ce82c42dcc67e80ec",
+      "status": "approved-reference; transparency and placement QA required"
+    },
+    {
+      "id": "BANANA",
+      "file": "motifs/banana.png",
+      "sha256": "ea2d704639d970a4d3fa9cceb1f79ddfcbf0776c34d3a52f1ad89e397e5f48d4",
+      "status": "approved-reference; transparency and placement QA required"
+    },
+    {
+      "id": "CHERRY",
+      "file": "motifs/cherry.png",
+      "sha256": "8f826a8f98eeb6ba47b49c1161fd01ed88adea94e4825c1c4936b9edd1d94eab",
+      "status": "approved-reference; transparency and placement QA required"
+    },
+    {
+      "id": "STRAWBERRY",
+      "file": "motifs/strawberry.png",
+      "sha256": "9b8813ba29851d153c7b0273423c1431af88d384154b61558d0f299f8029a7d2",
+      "status": "approved-reference; transparency and placement QA required"
+    },
+    {
+      "id": "ORANGE",
+      "file": "motifs/orange.png",
+      "sha256": "50354e6a9a11966d17eca5c6855e5b0fb4c3b7711e2d9645272c7fce36ce3964",
+      "status": "approved-reference; transparency and placement QA required"
+    },
+    {
+      "id": "LEMON",
+      "file": "motifs/lemon.png",
+      "sha256": "dcd5071436da56aea420c1c09f6c7e1c2deff7d2781f60f8e14831712f2ea282",
+      "status": "approved transparent motif; placement QA required"
+    },
+    {
+      "id": "WATERMELON",
+      "file": "motifs/watermelon.png",
+      "sha256": "079d1fb9db5c4717e9876039b4645d53edcb3ee1deccf7cb27791231320ffd2d",
+      "status": "approved-reference; transparency and placement QA required"
+    },
+    {
+      "id": "PINEAPPLE",
+      "file": "motifs/pineapple.png",
+      "sha256": "7723a431d635b165cbcbe4f364a607681b1d90d3bf723e9095008f2820209956",
+      "status": "approved-reference; transparency and placement QA required"
+    },
+    {
+      "id": "BLUEBERRY",
+      "file": "motifs/blueberry.png",
+      "sha256": "e64217c62b13ceba0d4dba762d52407e1032b128fd90d4f3497136cdfed39d08",
+      "status": "approved-reference; transparency and placement QA required"
+    },
+    {
+      "id": "KIWI",
+      "file": "motifs/kiwi.png",
+      "sha256": "6c9baca410845595c1586c54b5c421f536b47f0b3a20d54873a2d31d7035fd4b",
+      "status": "approved-reference; transparency and placement QA required"
+    },
+    {
+      "id": "apple-tree",
+      "file": "artwork/apple-tree.png",
+      "sha256": "063029c2cea4600141aa7ed9ecd683bb13a40092e457b216065895df9748008e",
+      "status": "approved design source; transparency and placement QA required"
+    },
+    {
+      "id": "strawberry-athletic",
+      "file": "artwork/strawberry-athletic.png",
+      "sha256": "d85ea6139605110278240f009470a235884cd5bd507a1afa398177d4d53b72d6",
+      "status": "approved design source; transparency and placement QA required"
+    },
+    {
+      "id": "summer-in-season",
+      "file": "artwork/summer-in-season.png",
+      "sha256": "4038bdc43385d6b743967198229e5099a2a0cdaa118c41b12224fa7ab07877b6",
+      "status": "approved design source; transparency and placement QA required"
+    },
+    {
+      "id": "fruit-basket",
+      "file": "artwork/fruit-basket.png",
+      "sha256": "84a37257b0218edd44d3772832093f78a2c37682b3019f951b5cdb2ee40c1947",
+      "status": "approved design source; transparency and placement QA required"
+    }
+  ]
+}
