@@ -1,0 +1,12 @@
+{
+  "summer_in_season": {
+    "source": "field revision 2",
+    "typography": "Silkscreen Regular; separate vector glyphs, no generated text",
+    "background": "transparent",
+    "export": "integer nearest-neighbor enlargement"
+  },
+  "strawberry_athletic": {
+    "status": "cancelled_by_user",
+    "legacy_files": "retained for history; do not create products"
+  }
+}

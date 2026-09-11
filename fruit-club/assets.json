@@ -1,6 +1,6 @@
 {
   "batch_id": "TPC-FRUIT-001",
-  "revision": "pixel-grid-01",
+  "revision": "pixel-grid-02-font-typesetting",
   "assets": [
     {
       "id": "apple",
@@ -237,7 +237,7 @@
       "id": "strawberry-athletic",
       "file": "artwork/strawberry-athletic.png",
       "sha256": "1f6201311bbb421bb0422e637d4f19926c41e8ba4ca8456208492b671cba2945",
-      "status": "transparent square-grid master; garment mockup and embroidery QA required",
+      "status": "cancelled_by_user; archive only",
       "logical_size": [
         188,
         186
@@ -257,18 +257,18 @@
     {
       "id": "summer-in-season",
       "file": "artwork/summer-in-season.png",
-      "sha256": "afee80a2eae9c4c26711228468621bdf7c6d192e59a13a7e9f0db1b1fac23d57",
-      "status": "transparent square-grid master; garment mockup and embroidery QA required",
+      "sha256": "d7b5a80ccaad1c239c74fd260fc75a743628061aa49b829ef03d12cee8e6998a",
+      "status": "transparent revised field; Silkscreen typography; unpublished draft",
       "logical_size": [
-        135,
-        176
+        189,
+        304
       ],
       "output_size": [
-        3645,
-        4752
+        3402,
+        5472
       ],
-      "cell_size_px": 27,
-      "colors": 29,
+      "cell_size_px": 18,
+      "colors": 16,
       "uniform_grid": true,
       "alpha_values": [
         0,
@@ -299,14 +299,24 @@
     {
       "id": "summer-in-season-dark",
       "file": "artwork/summer-in-season-dark.png",
-      "sha256": "13fa8e50e915cf6b99d0ccd763b7a37b303cae70f30ac1b27b01880a13b0b755",
-      "status": "transparent square-grid lettering colorway"
+      "sha256": "8d1f3bde665513dfbe6b0f6456f54545ad1726421ef7d07d87df27ffb8e98b2a",
+      "status": "transparent revised field; Silkscreen typography; unpublished draft",
+      "output_size": [
+        3402,
+        5472
+      ],
+      "logical_size": [
+        189,
+        304
+      ],
+      "cell_size_px": 18,
+      "colors": 16
     },
     {
       "id": "strawberry-athletic-light",
       "file": "artwork/strawberry-athletic-light.png",
       "sha256": "52dc49aa8836e14607a9fccb30c4d5de2d7be048878ff03f3c59d8dccd7e1ca7",
-      "status": "transparent square-grid lettering colorway"
+      "status": "cancelled_by_user; archive only"
     }
   ]
 }
