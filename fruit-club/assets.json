@@ -1,89 +1,312 @@
 {
   "batch_id": "TPC-FRUIT-001",
+  "revision": "pixel-grid-01",
   "assets": [
     {
-      "id": "APPLE",
+      "id": "apple",
       "file": "motifs/apple.png",
-      "sha256": "75638ae1782fd29691c8adbbad70c9edddc3e6214310a82ce82c42dcc67e80ec",
-      "status": "approved-reference; transparency and placement QA required"
+      "sha256": "3c85127b239905e0bbba3d6a1d217c603ea9a56ba7dd554678caea1949997a6b",
+      "status": "transparent square-grid master; garment mockup and embroidery QA required",
+      "logical_size": [
+        29,
+        33
+      ],
+      "output_size": [
+        1798,
+        2046
+      ],
+      "cell_size_px": 62,
+      "colors": 7,
+      "uniform_grid": true,
+      "alpha_values": [
+        0,
+        255
+      ]
     },
     {
-      "id": "BANANA",
+      "id": "banana",
       "file": "motifs/banana.png",
-      "sha256": "ea2d704639d970a4d3fa9cceb1f79ddfcbf0776c34d3a52f1ad89e397e5f48d4",
-      "status": "approved-reference; transparency and placement QA required"
+      "sha256": "e883537d11d5c1f5baa40081ccb7e1a3268fbec53127748688ce00a07846b697",
+      "status": "transparent square-grid master; garment mockup and embroidery QA required",
+      "logical_size": [
+        23,
+        32
+      ],
+      "output_size": [
+        1794,
+        2496
+      ],
+      "cell_size_px": 78,
+      "colors": 5,
+      "uniform_grid": true,
+      "alpha_values": [
+        0,
+        255
+      ]
     },
     {
-      "id": "CHERRY",
+      "id": "cherry",
       "file": "motifs/cherry.png",
-      "sha256": "8f826a8f98eeb6ba47b49c1161fd01ed88adea94e4825c1c4936b9edd1d94eab",
-      "status": "approved-reference; transparency and placement QA required"
+      "sha256": "aac03140c7c029f0891b3a7d88010d8c9b44ca34291ee919be6a7bd68faf4200",
+      "status": "transparent square-grid master; garment mockup and embroidery QA required",
+      "logical_size": [
+        36,
+        41
+      ],
+      "output_size": [
+        1800,
+        2050
+      ],
+      "cell_size_px": 50,
+      "colors": 9,
+      "uniform_grid": true,
+      "alpha_values": [
+        0,
+        255
+      ]
     },
     {
-      "id": "STRAWBERRY",
+      "id": "strawberry",
       "file": "motifs/strawberry.png",
-      "sha256": "9b8813ba29851d153c7b0273423c1431af88d384154b61558d0f299f8029a7d2",
-      "status": "approved-reference; transparency and placement QA required"
+      "sha256": "bf96deeb05f92d56cd3ec3eb2535e0942c003801fa5c4abf360d9b09e381fd6a",
+      "status": "transparent square-grid master; garment mockup and embroidery QA required",
+      "logical_size": [
+        30,
+        38
+      ],
+      "output_size": [
+        1800,
+        2280
+      ],
+      "cell_size_px": 60,
+      "colors": 8,
+      "uniform_grid": true,
+      "alpha_values": [
+        0,
+        255
+      ]
     },
     {
-      "id": "ORANGE",
+      "id": "orange",
       "file": "motifs/orange.png",
-      "sha256": "50354e6a9a11966d17eca5c6855e5b0fb4c3b7711e2d9645272c7fce36ce3964",
-      "status": "approved-reference; transparency and placement QA required"
+      "sha256": "1f675a423b9b8cd626379ce09372cf913a07f23beeeb540ad85192531548d3ae",
+      "status": "transparent square-grid master; garment mockup and embroidery QA required",
+      "logical_size": [
+        28,
+        33
+      ],
+      "output_size": [
+        1792,
+        2112
+      ],
+      "cell_size_px": 64,
+      "colors": 7,
+      "uniform_grid": true,
+      "alpha_values": [
+        0,
+        255
+      ]
     },
     {
-      "id": "LEMON",
+      "id": "lemon",
       "file": "motifs/lemon.png",
-      "sha256": "dcd5071436da56aea420c1c09f6c7e1c2deff7d2781f60f8e14831712f2ea282",
-      "status": "approved transparent motif; placement QA required"
+      "sha256": "2e397ac0a62c36d5786bcb9edb04f0f9a3e6ed82ecf93fac43e84ff293d4ea93",
+      "status": "transparent square-grid master; garment mockup and embroidery QA required",
+      "logical_size": [
+        30,
+        33
+      ],
+      "output_size": [
+        1800,
+        1980
+      ],
+      "cell_size_px": 60,
+      "colors": 12,
+      "uniform_grid": true,
+      "alpha_values": [
+        0,
+        255
+      ]
     },
     {
-      "id": "WATERMELON",
+      "id": "watermelon",
       "file": "motifs/watermelon.png",
-      "sha256": "079d1fb9db5c4717e9876039b4645d53edcb3ee1deccf7cb27791231320ffd2d",
-      "status": "approved-reference; transparency and placement QA required"
+      "sha256": "00fd2eb28ac9b2af908475c414f98ad605bed0ae8ee22e5f4a66fe67300f5ba3",
+      "status": "transparent square-grid master; garment mockup and embroidery QA required",
+      "logical_size": [
+        30,
+        32
+      ],
+      "output_size": [
+        1800,
+        1920
+      ],
+      "cell_size_px": 60,
+      "colors": 4,
+      "uniform_grid": true,
+      "alpha_values": [
+        0,
+        255
+      ]
     },
     {
-      "id": "PINEAPPLE",
+      "id": "pineapple",
       "file": "motifs/pineapple.png",
-      "sha256": "7723a431d635b165cbcbe4f364a607681b1d90d3bf723e9095008f2820209956",
-      "status": "approved-reference; transparency and placement QA required"
+      "sha256": "453dd7bfbc54a05c79c2cd2d52fde25659836125062b5de316b80e030a678dbd",
+      "status": "transparent square-grid master; garment mockup and embroidery QA required",
+      "logical_size": [
+        31,
+        40
+      ],
+      "output_size": [
+        1798,
+        2320
+      ],
+      "cell_size_px": 58,
+      "colors": 7,
+      "uniform_grid": true,
+      "alpha_values": [
+        0,
+        255
+      ]
     },
     {
-      "id": "BLUEBERRY",
+      "id": "blueberry",
       "file": "motifs/blueberry.png",
-      "sha256": "e64217c62b13ceba0d4dba762d52407e1032b128fd90d4f3497136cdfed39d08",
-      "status": "approved-reference; transparency and placement QA required"
+      "sha256": "f76e2a042b6c351f63635c45872d3c769349e45fcee32e96b15d573132e559c8",
+      "status": "transparent square-grid master; garment mockup and embroidery QA required",
+      "logical_size": [
+        40,
+        36
+      ],
+      "output_size": [
+        1800,
+        1620
+      ],
+      "cell_size_px": 45,
+      "colors": 5,
+      "uniform_grid": true,
+      "alpha_values": [
+        0,
+        255
+      ]
     },
     {
-      "id": "KIWI",
+      "id": "kiwi",
       "file": "motifs/kiwi.png",
-      "sha256": "6c9baca410845595c1586c54b5c421f536b47f0b3a20d54873a2d31d7035fd4b",
-      "status": "approved-reference; transparency and placement QA required"
+      "sha256": "fb6a9f1f1985e5971fb74fe830f2777185bae0bccf07b54f118de7d64fcc3806",
+      "status": "transparent square-grid master; garment mockup and embroidery QA required",
+      "logical_size": [
+        50,
+        50
+      ],
+      "output_size": [
+        1800,
+        1800
+      ],
+      "cell_size_px": 36,
+      "colors": 6,
+      "uniform_grid": true,
+      "alpha_values": [
+        0,
+        255
+      ]
     },
     {
       "id": "apple-tree",
       "file": "artwork/apple-tree.png",
-      "sha256": "063029c2cea4600141aa7ed9ecd683bb13a40092e457b216065895df9748008e",
-      "status": "approved design source; transparency and placement QA required"
+      "sha256": "791ecffc266dea5726c09da5172dfca23495d6c842c981aadec9ada2286424bb",
+      "status": "transparent square-grid master; garment mockup and embroidery QA required",
+      "logical_size": [
+        128,
+        171
+      ],
+      "output_size": [
+        3584,
+        4788
+      ],
+      "cell_size_px": 28,
+      "colors": 32,
+      "uniform_grid": true,
+      "alpha_values": [
+        0,
+        255
+      ]
     },
     {
       "id": "strawberry-athletic",
       "file": "artwork/strawberry-athletic.png",
-      "sha256": "d85ea6139605110278240f009470a235884cd5bd507a1afa398177d4d53b72d6",
-      "status": "approved design source; transparency and placement QA required"
+      "sha256": "1f6201311bbb421bb0422e637d4f19926c41e8ba4ca8456208492b671cba2945",
+      "status": "transparent square-grid master; garment mockup and embroidery QA required",
+      "logical_size": [
+        188,
+        186
+      ],
+      "output_size": [
+        3572,
+        3534
+      ],
+      "cell_size_px": 19,
+      "colors": 6,
+      "uniform_grid": true,
+      "alpha_values": [
+        0,
+        255
+      ]
     },
     {
       "id": "summer-in-season",
       "file": "artwork/summer-in-season.png",
-      "sha256": "4038bdc43385d6b743967198229e5099a2a0cdaa118c41b12224fa7ab07877b6",
-      "status": "approved design source; transparency and placement QA required"
+      "sha256": "afee80a2eae9c4c26711228468621bdf7c6d192e59a13a7e9f0db1b1fac23d57",
+      "status": "transparent square-grid master; garment mockup and embroidery QA required",
+      "logical_size": [
+        135,
+        176
+      ],
+      "output_size": [
+        3645,
+        4752
+      ],
+      "cell_size_px": 27,
+      "colors": 29,
+      "uniform_grid": true,
+      "alpha_values": [
+        0,
+        255
+      ]
     },
     {
       "id": "fruit-basket",
-      "file": "artwork/fruit-basket.png",
-      "sha256": "84a37257b0218edd44d3772832093f78a2c37682b3019f951b5cdb2ee40c1947",
-      "status": "approved design source; transparency and placement QA required"
+      "file": "motifs/fruit-basket.png",
+      "sha256": "ce515b423781a9a290c30ec935786ed89bbb5c6028f495519b060feac2ffc6cd",
+      "status": "transparent square-grid master; garment mockup and embroidery QA required",
+      "logical_size": [
+        53,
+        49
+      ],
+      "output_size": [
+        1802,
+        1666
+      ],
+      "cell_size_px": 34,
+      "colors": 22,
+      "uniform_grid": true,
+      "alpha_values": [
+        0,
+        255
+      ]
+    },
+    {
+      "id": "summer-in-season-dark",
+      "file": "artwork/summer-in-season-dark.png",
+      "sha256": "13fa8e50e915cf6b99d0ccd763b7a37b303cae70f30ac1b27b01880a13b0b755",
+      "status": "transparent square-grid lettering colorway"
+    },
+    {
+      "id": "strawberry-athletic-light",
+      "file": "artwork/strawberry-athletic-light.png",
+      "sha256": "52dc49aa8836e14607a9fccb30c4d5de2d7be048878ff03f3c59d8dccd7e1ca7",
+      "status": "transparent square-grid lettering colorway"
     }
   ]
 }

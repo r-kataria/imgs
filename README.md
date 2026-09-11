@@ -1,7 +1,9 @@
 # Tiny Pixel Club artwork
 
-Public image hosting for Tiny Pixel Club.
+Transparent PNG artwork for Tiny Pixel Club.
 
-The `fruit-club/` directory contains the selected Fruit Club artwork and motifs. See `fruit-club/assets.json` for file checksums and preparation status. Approved design sources are not automatically print-ready: background transparency, garment placement, and embroidery suitability must be checked before production.
+`fruit-club/motifs/` contains ten fruit motifs and the chest basket motif. `fruit-club/artwork/` contains the three approved back designs, plus lettering colorways for light and dark garments.
 
-These files are publicly accessible; no reuse license is granted by this repository.
+Each master uses flat palette colors, binary transparency, and an integer-scaled square pixel grid. Each artwork has its own logical resolution to preserve appropriate detail. See `fruit-club/assets.json` for dimensions and checksums. Garment placement, mockup review and embroidery digitization remain separate production checks.
+
+No reuse license is granted by this repository.
